@@ -1,0 +1,26 @@
+_repo: Tennyson-s-Life-and-PoetryAnd-Mistakes-Concerning-Tennyson_36093
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parsons, Eugene
+    birthdate: 1855
+    gutenberg_agent_id: '38077'
+    url: http://www.gutenberg.org/2009/agents/38077
+description: ''
+gutenberg_issued: '2011-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36093'
+  lccn: '29027751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Tennyson, Alfred Tennyson, Baron, 1809-1892'
+title: 'Tennyson''s Life and Poetry: And Mistakes Concerning Tennyson'
+url: http://www.gutenberg.org/ebooks/36093
